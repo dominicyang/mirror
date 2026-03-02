@@ -1,1 +1,1 @@
-FROM comfyanonymous/comfyui:latest-cuda
+FROM yanwk/comfyui-boot:cu128-slim
